@@ -199,9 +199,11 @@ for data in sample_data:
 ```
 
 The original image:
+
 ![Original Image](examples/example-1-img.png)
 
 The flipped image
+
 ![Flipped Image](examples/example-img-1-flipped.png)
 
 ## Model Architecture
